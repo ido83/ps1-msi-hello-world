@@ -1,3 +1,4 @@
+# This is an Example file for running the psd & psm 
 # Define the module folder path
 # Get script directory using PSScriptRoot or fallback to MyInvocation
 $scriptDirectory = if ($PSScriptRoot) {
